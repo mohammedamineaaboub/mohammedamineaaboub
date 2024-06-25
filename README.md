@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amine Aaboub</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
+<img align="right" alt="Coding" width="400" src="img.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedamineaaboub&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedamineaaboub" /> </p>
 
 
