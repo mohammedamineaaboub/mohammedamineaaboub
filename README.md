@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amine Aaboub</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedamineaaboub&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedamineaaboub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedamineaaboub" alt="mohammedamineaaboub" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **Laravel, React.js and Mysql**
 
